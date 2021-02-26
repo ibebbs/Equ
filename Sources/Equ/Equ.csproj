@@ -17,6 +17,7 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>..\key.snk</AssemblyOriginatorKeyFile>
     <LangVersion>8.0</LangVersion>
+    <RepositoryUrl>https://github.com/ibebbs/Equ</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
